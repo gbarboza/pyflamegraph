@@ -1,0 +1,6 @@
+[submodule "flamegraph"]
+	path = pyflamegraph/flamegraph
+	url = https://github.com/brendangregg/FlameGraph
+[submodule "pyflamegraph/flamegraph"]
+	path = pyflamegraph/flamegraph
+	url = https://github.com/brendangregg/FlameGraph
