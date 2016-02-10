@@ -2,7 +2,7 @@
 
 from distutils.core import setup
 
-execfile('pyflamegraph/version.py')
+exec(open('pyflamegraph/version.py').read())
 
 kwargs = {
     "name": "pyflamegraph",
